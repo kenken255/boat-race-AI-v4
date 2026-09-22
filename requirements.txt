@@ -1,6 +1,0 @@
-streamlit>=1.39,<2
-pandas>=2.2,<3
-numpy>=2.0,<3
-scikit-learn>=1.5,<2
-pyjpboatrace==0.5.0
-supabase>=2.8,<3
